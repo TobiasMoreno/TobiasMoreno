@@ -1,6 +1,6 @@
 <div>
 <h1 align = "center"> 
-<img src="TobiasMorenoDeveloper.jpeg" />
+<img src="BannerTop.jpeg" />
 </h1>
 </div>
 <!-- **TobiasMoreno/TobiasMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -32,5 +32,5 @@ aboutMe: [
 };
 ```
 <div>
-<img src="BannerBottom1.jpeg" />
+<img src="BannerBottom.jpeg" />
 </div>
