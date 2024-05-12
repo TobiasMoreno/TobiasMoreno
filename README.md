@@ -32,5 +32,5 @@ aboutMe: [
 };
 ```
 
-![Texto alternativo](BANNER BOT.gif)
+![Texto alternativo](BannerBot.gif)
 
