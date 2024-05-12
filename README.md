@@ -31,6 +31,8 @@ aboutMe: [
 ]
 };
 ```
-<video autoplay loop class="video">
-            <source src="Video.mp4" type="video/mp4" />
+<div>
+<video autoplay loop >
+  <source src="Video.mp4" type="video/mp4" />
 </video>
+</div>
