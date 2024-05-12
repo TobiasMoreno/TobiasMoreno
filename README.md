@@ -1,6 +1,6 @@
 <div>
 <h1 align = "center"> 
-<img src="BannerTop.jpeg" />
+<img src="BannerTop1.jpeg" />
 </h1>
 </div>
 <!-- **TobiasMoreno/TobiasMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -31,6 +31,6 @@ aboutMe: [
 ]
 };
 ```
-<div>
-<img src="BannerBottom.jpeg" />
-</div>
+<video autoplay loop class="video">
+            <source src="Video.mp4" type="video/mp4" />
+</video>
