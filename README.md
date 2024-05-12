@@ -9,7 +9,7 @@
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,postman,git,bash,md,githubactions,github,jquery,powershell,vscode,dotnet,java,cs" />
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,jquery,postman,git,bash,md,githubactions,github,powershell,vscode,dotnet,java,cs" />
     </a>
   </p>
 </div>
@@ -17,12 +17,14 @@
 ```js
 const profileData = {
 aboutMe: [
-'🔭 I’m currently working on Personal Projects'
-'📫 How to reach me: tobiasmoreno.tm.21@gmail.com'
-'👨‍💻 I am a Full-stack Web Developer',
-'🚀 I thrive on collaborating, organizing, and working with peers.',
-'🖥 I enjoy designing web applications.',
-'🙇🏻‍♂️ Currently learning Java, TypeScript and Angular',
+🔭 I’m currently working on Personal Projects
+📫 How to reach me:
+- tobiasmoreno.tm.21@gmail.com
+- [in/tobiasmoreno](https://www.linkedin.com/in/tobiasmoreno/)
+👨‍💻 I am a Full-stack Web Developer,
+🚀 I thrive on collaborating, organizing, and working with peers.,
+🖥 I enjoy designing web applications.,
+🙇🏻‍♂️ Currently learning Java, TypeScript and Angular,
 ]
 };
 ```
