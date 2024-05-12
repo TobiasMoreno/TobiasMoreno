@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moreno Tobias Full Stack Developer Web
 
 <!-- **TobiasMoreno/TobiasMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -17,7 +17,7 @@
 ```js
 const profileData = {
 aboutMe: [
-'🔭 I’m currently working on Personal Projects
+'🔭 I’m currently working on Personal Projects'
 '📫 How to reach me:'
 - 'tobiasmoreno.tm.21@gmail.com'
 - 'LinkedIn: https://www.linkedin.com/in/tobiasmoreno/'
