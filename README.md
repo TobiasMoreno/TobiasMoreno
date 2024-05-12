@@ -32,7 +32,7 @@ aboutMe: [
 };
 ```
 <div>
-<video autoplay loop >
+<video>
   <source src="Video.mp4" type="video/mp4" />
 </video>
 </div>
