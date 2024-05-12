@@ -31,8 +31,6 @@ aboutMe: [
 ]
 };
 ```
-<div>
-<video>
-  <source src="Video.mp4" type="video/mp4" />
-</video>
-</div>
+
+![Texto alternativo](BANNER BOT.gif)
+
