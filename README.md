@@ -31,3 +31,6 @@ aboutMe: [
 ]
 };
 ```
+<div>
+<img src="BannerBottom1.jpeg" />
+</div>
