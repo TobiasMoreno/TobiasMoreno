@@ -21,7 +21,7 @@ aboutMe: [
 '🔭 I’m currently working on my Personal Projects'
 '📫 How to reach me:'
 - 'Email: tobiasmoreno.tm.21@gmail.com'
-- 'LinkedIn: https://www.linkedin.com/in/tobiasmoreno/'
+- 'LinkedIn:linkedin.com/in/tobiasmoreno/'
 '👨‍💻 I am a Full-stack Web Developer,'
 '🚀 I enjoy on collaborating, organization, and working with peers,'
 '🖥 I enjoy designing web applications.,'
