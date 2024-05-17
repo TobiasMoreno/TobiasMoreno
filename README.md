@@ -25,7 +25,7 @@ aboutMe: [
 '👨‍💻 I am a Full-stack Web Developer,'
 '🚀 I enjoy on collaborating, organization, and working with peers,'
 '🖥 I enjoy designing web applications.,'
-'🙇🏻‍♂️ Currently learning Java and Angular,'
+'🙇🏻‍♂️ Currently improving my knowledge in Java and Angular,'
 ]
 };
 ```
