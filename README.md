@@ -19,13 +19,14 @@
 const profileData = {
 aboutMe: [
 '🔭 I’m currently working on my Personal Projects'
+  'Netlify:https://personal-pages-tobias-moreno.netlify.app/'
 '📫 How to reach me:'
 - 'Email: tobiasmoreno.tm.21@gmail.com'
 - 'LinkedIn:linkedin.com/in/tobiasmoreno/'
 '👨‍💻 I am a Full-stack Web Developer,'
 '🚀 I enjoy on collaborating, organization, and working with peers,'
 '🖥 I enjoy designing web applications.,'
-'🙇🏻‍♂️ Currently improving my knowledge in Java and Angular,'
+'🙇🏻‍♂️ Currently improving my knowledge in Java, Angular and Docker'
 ]
 };
 ```
