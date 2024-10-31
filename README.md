@@ -7,7 +7,6 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=34&pause=20000&color=FE7346&center=true&vCenter=true&width=1000&lines=What+I'm/'ve+been+working+with...)](https://git.io/typing-svg) -->
 
-
 <!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
@@ -29,38 +28,63 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-<span> 
-  
- 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasMoreno&layout=compact">
 
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
   
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-</span>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> GitHub Stats
 
-<h2>Github stats:</h2> 
+### Personal GitHub
 
-[![](https://github-readme-stats.vercel.app/api?username=TobiasMoreno&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/TobiasMoreno)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=TobiasMoreno&theme=material-palenight)](https://github.com/TobiasMoreno)
-<h4> Institutional Github </h4>
+<!-- Personal GitHub Stats -->
+<p align="left">
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TobiasMoreno&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TobiasMoreno&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TobiasMoreno&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+</td>
+</tr>
+</table>
+</p> 
 
-[![](https://github-readme-stats.vercel.app/api?username=405596-MorenoTobias&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/405596-MorenoTobias)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=405596-MorenoTobias&theme=material-palenight)](https://github.com/405596-MorenoTobias)
-</div>
+<br clear="all" />
+
+### Institutional GitHub
+
+<!-- Institutional GitHub Stats -->
+<p align="left">
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=405596-MorenoTobias&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=405596-MorenoTobias&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=405596-MorenoTobias&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+</td>
+</tr>
+</table>
+</p> 
+
+<br clear="all" />
+
+
 
 ![Texto alternativo](BannerBot.gif)
 
