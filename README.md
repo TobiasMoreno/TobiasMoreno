@@ -57,7 +57,7 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TobiasMoreno&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TobiasMoreno&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasMoreno&layout=compact&theme=radical"/>
 </td>
 </tr>
 </table>
@@ -77,7 +77,7 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=405596-MorenoTobias&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=405596-MorenoTobias&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=405596-MorenoTobias&layout=compact&theme=radical"/>
 </td>
 </tr>
 </table>
