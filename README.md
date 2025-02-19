@@ -15,13 +15,12 @@
 
 👋 Hey there! I'm Tobias Moreno
 
-- 🔭 **Currently working on:** Personal Projects – <a href="https://portfolio-tobias-moreno.netlify.app/" target="_blank">Web Site</a>
-
+- 🔭 **Currently working on:** Personal Projects – [Web Site](https://portfolio-tobias-moreno.netlify.app/)
 - 💼 **About Me:** Full-stack Web Developer passionate about designing and building dynamic web applications.
 - 👨‍💻 **Skills:** Specializing in frontend development with **Angular** and backend with **Java** and **Spring Boot**.
 - 🚀 **Values:** I thrive on collaboration, organization, and teamwork.
 - 🙇🏻‍♂️ **Currently improving:** Deepening my knowledge in **Java**, **Angular**, and **Docker**.
-- :email: **Reach out to me:** [![Email](https://img.shields.io/static/v1?label=Email&message=Tobias&color=EA4335&style=flat-square)](mailto:tobiasmoreno.tm.21@gmail.com)
+- 📧 **Email:** [![Email](https://img.shields.io/static/v1?label=Email&message=Tobias&color=EA4335&style=flat-square)](mailto:tobiasmoreno.tm.21@gmail.com)
 - 🔗 **Connect with me on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/tobiasmoreno/)
 - 🌐 **Visit my GitHub Portfolio:** [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TobiasMoreno)
 
